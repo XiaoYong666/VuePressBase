@@ -1,0 +1,28 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "description": "此文档为通用基础文档，可以在此文档基础上，扩展和填充更多的文档内容～",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoYong666/VuePressBase.git"
+  },
+  "keywords": [
+    "通用文档",
+    "文档"
+  ],
+  "author": "潇十一郎",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XiaoYong666/VuePressBase/issues"
+  },
+  "homepage": "https://github.com/XiaoYong666/VuePressBase#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
